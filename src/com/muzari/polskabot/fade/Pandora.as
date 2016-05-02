@@ -12,8 +12,8 @@ package com.muzari.polskabot.fade
 	public class Pandora
 	{
 		public var importantBigInteger:BigInteger;
-		public static const firstCode:BigInteger = new BigInteger("5478a9105faffc1e47e49ccb6791a55a8d01fc32607706d18670a81cde19e1cffc0efa358d4a14c68934a57b437ba52b752f8dfffe7af18de93c0d8418bd2f34");
-		public static const secondCode:BigInteger = new BigInteger("d0155aaf4104778513372dae23747f500850e67e4a08fc6faf62f5bcd3c882530f9e5a57e390bc80a5f0b1e7075d100293f5d1e804e7253e53e9d40a11240ae7");
+		public static const firstCode:BigInteger = new BigInteger("d58f6abf26e9cf6da93d694f05a304955ff9cb0ff07cf77a2b6cb43295d720abc0dcab4c0eb5caba33e7d9848c0a00271c7a340f320b36c764aaed84ba2bd32");
+		public static const secondCode:BigInteger = new BigInteger("e9df18ce2d8109a32afd0093aef0d68270e494a32b1119a70e22a61f8464169f620f96aff5ea6ed6b8dae84baf007237c98fc165732f6025ac3065ebca4edfa9");
 		
 		protected var stageOne:Wrapper;
 		protected var stageTwoEncode:RC4;
